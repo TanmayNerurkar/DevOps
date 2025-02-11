@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="MasterPageWebsite.Site" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+ <title>Master Page Example</title>
+ <link href="/Site.css" rel="stylesheet" />
+ <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+ <form id="form1" runat="server">
+ <div style="color: #ff6a00">
+ <header>
+ <h1>My Website</h1>
+ <nav>
+ <ul>
+ <li><a href="Default.aspx">Home</a></li>
+ <li><a href="About.aspx">About</a></li>
+ <li><a href="Contact.aspx">Contact</a></li>
+ </ul>
+ </nav>
+ </header>
+ <asp:ContentPlaceHolder ID="MainContent" 
+runat="server"></asp:ContentPlaceHolder>
+ <footer>
+ <p>&copy; 2025 My Website</p>
+ </footer>
+ </div>
+ </form>
+</body>
+</html>

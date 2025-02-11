@@ -1,0 +1,10 @@
+C:\Users\SAPCT\OneDrive - Shree Ameya Public Charitable Trust\Tanmay\AWT\Registration form\Registration form\bin\Debug\Registration form.exe.config
+C:\Users\SAPCT\OneDrive - Shree Ameya Public Charitable Trust\Tanmay\AWT\Registration form\Registration form\bin\Debug\Registration form.exe
+C:\Users\SAPCT\OneDrive - Shree Ameya Public Charitable Trust\Tanmay\AWT\Registration form\Registration form\bin\Debug\Registration form.pdb
+C:\Users\SAPCT\OneDrive - Shree Ameya Public Charitable Trust\Tanmay\AWT\Registration form\Registration form\obj\Debug\Registration form.csproj.AssemblyReference.cache
+C:\Users\SAPCT\OneDrive - Shree Ameya Public Charitable Trust\Tanmay\AWT\Registration form\Registration form\obj\Debug\Registration_form.Form1.resources
+C:\Users\SAPCT\OneDrive - Shree Ameya Public Charitable Trust\Tanmay\AWT\Registration form\Registration form\obj\Debug\Registration_form.Properties.Resources.resources
+C:\Users\SAPCT\OneDrive - Shree Ameya Public Charitable Trust\Tanmay\AWT\Registration form\Registration form\obj\Debug\Registration form.csproj.GenerateResource.cache
+C:\Users\SAPCT\OneDrive - Shree Ameya Public Charitable Trust\Tanmay\AWT\Registration form\Registration form\obj\Debug\Registration form.csproj.CoreCompileInputs.cache
+C:\Users\SAPCT\OneDrive - Shree Ameya Public Charitable Trust\Tanmay\AWT\Registration form\Registration form\obj\Debug\Registration form.exe
+C:\Users\SAPCT\OneDrive - Shree Ameya Public Charitable Trust\Tanmay\AWT\Registration form\Registration form\obj\Debug\Registration form.pdb
